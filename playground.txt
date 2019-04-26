@@ -2,3 +2,4 @@ formation git
 nouvelle ligne.
 encore une autre ligne.
 ligne master.
+ligne de branche.
