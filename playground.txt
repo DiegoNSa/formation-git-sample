@@ -1,6 +1,6 @@
 formation git
 nouvelle ligne.
-encore une autre ligne.
+modification rebase.
 ligne branche 3.
 ligne master.
 ligne de branche.
