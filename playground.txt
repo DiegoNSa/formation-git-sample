@@ -4,3 +4,5 @@ encore une autre ligne.
 ligne master.
 ligne de branche.
 ligne multibranche
+ligne branche 2.
+
