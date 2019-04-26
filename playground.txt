@@ -1,6 +1,7 @@
 formation git
 nouvelle ligne.
 encore une autre ligne.
+ligne branche 3.
 ligne master.
 ligne de branche.
 ligne multibranche
