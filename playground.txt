@@ -3,3 +3,4 @@ nouvelle ligne.
 encore une autre ligne.
 ligne master.
 ligne de branche.
+ligne branche 2.
